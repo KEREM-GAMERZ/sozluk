@@ -12,4 +12,3 @@ genc_sozluk[yeni_terim] = yeni_anlam
 
 sorgu = input("Hangi kelimenin anlamını öğrenmek istersin?")
 print(genc_sozluk[sorgu])
-input()
